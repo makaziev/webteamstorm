@@ -113,3 +113,23 @@ a.desc:after {
 .nav > li > form > button.logout:focus {
     outline: none;
 }
+
+.article {
+    min-height: 300px;
+    border: 1px solid #cbd3da;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+}
+
+.article:hover {
+    box-shadow: 0 0 5px #95999c;
+}
+
+.article h4 {
+    margin-bottom: 30px;
+}
+
+.article p {
+    font-size: 20px;
+}
